@@ -2,23 +2,23 @@
 
 # dependencies
 /node_modules
-/react-redux-toolkit/node_modules
+/redux-toolkit/node_modules
 /redux-javascript/node_modules
-/react-redux-toolkit/.pnp
+/redux-toolkit/.pnp
 /redux-javascript/.pnp
-/react-redux-toolkit/pnp.js
+/redux-toolkit/pnp.js
 /redux-javascript/pnp.js
 /.pnp
 .pnp.js
 
 # testing
 /coverage
-/react-redux-toolkit/coverage
+/redux-toolkit/coverage
 /redux-javascript/coverage
 
 # production
 /build
-/react-redux-toolkit/build
+/redux-toolkit/build
 /redux-javascript/build
 
 # misc
