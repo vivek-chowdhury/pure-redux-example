@@ -1,0 +1,23 @@
+.row-container {
+ display: flex;
+ flex-direction: column;
+ gap: .2rem;
+ justify-content: center;
+}
+
+.title-style {
+    text-decoration: underline;
+}
+
+.date-style {
+    align-self: flex-end;
+}
+
+.row-container::after {
+    content: '';
+    width: 50%;
+    height: 1px;
+    background-color: grey;
+    justify-content: center;
+    align-self: center;
+}
